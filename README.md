@@ -3,6 +3,12 @@
 
 Made the BarChart and DoughnutChart responsive and dynamic, where task done can be increased to change the compositions of the Charts.
 
+After Changes: 
+
+![image](https://github.com/user-attachments/assets/65b8c973-cf1f-461b-9227-7f14ca529ecd)
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
